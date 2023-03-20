@@ -1,4 +1,6 @@
-## Erick Cleiton 🧑‍💻
+## Olá, meu nome Erick Cleiton 🧑‍💻
+
+### Seja bem-vindo! 
 
 Estudante de TI com mais de 5 anos de atuação na área, fascinado em adquirir e compartilhar conhecimentos.
 
