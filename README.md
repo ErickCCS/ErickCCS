@@ -15,7 +15,7 @@ Linux Professional Institute LPIC-1 - In progress.. 📚🤓
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ErickCCS&show_icons=true&theme=dark"/>
 </div>
 
-### Interesses
+### Tecnologias que estou estudando
 
 <div>
   <img align="center" alt="Rafa-Js" height="40" width="50" 
